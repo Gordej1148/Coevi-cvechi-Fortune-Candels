@@ -1,5 +1,6 @@
 
 
+
 {box-sizing: border-box;}
 
 body { 
@@ -7,242 +8,223 @@ body {
   font-family: Arial, sans-serif;
 }
 
-
-
-.yyyy {
-  position: absolute;
-  top: 1130px;
-  padding-left: 20px;
+.insh a {
+  color:#b1d8fa;
 }
 
-.kybik {
-  background: radial-gradient(circle,rgba(207, 250, 224, 1) 0%, rgba(148, 220, 233, 1) 100%);
-  height:480px
+
+
+.insh {
+  position:absolute;
+  top:770px;
+  left:580px;
+  color:white;
+
+}
+
+.videosss {
+  z-index:1;
+  position:absolute;
+  top:750px;
+  left:25px;
+  
+}
+
+.squares h2 {
+  text-align: center;
+  color:white;
+}
+
+.squares h3 {
+  text-align: center;
+  color:white;
+  font-size:23px;
+}
+
+.squares p {
+  text-align: center;
+  font-size:19px;
+  padding-left:50px;
+  padding-right:50px;
+  color:white;
+}
+
+
+.squares {
+  width: 1030px; 
+  height: 880px; 
+background: linear-gradient(5deg,rgba(40, 47, 97, 1) 0%, rgba(91, 165, 194, 1) 100%);
+  left:1px; 
+  position:absolute;
+  margin-right:5px;
+  border-radius:15px;
+  margin-top:15px;
+  margin-left:10px
+}
+
+
+
+.paytina {
+  position:absolute;
+  z-index:1;
+  top:190px;
+  right:904px;
+}
+
+.znak {
+background: linear-gradient(0deg,rgba(117, 46, 46, 1) 0%, rgba(212, 85, 85, 1) 100%);
+  border-radius:15px;
+  padding:5px;
+  position:absolute;
+  border:solid 2px lightblue;
+  box-shadow:5px 5px 10px black;
+  margin:10px;
+}
+
+.znaks {
+background: linear-gradient(0deg,rgba(128, 34, 120, 1) 0%, rgba(232, 111, 210, 1) 100%);
+  border-radius:15px;
+  padding:5px;
+  position:absolute;
+  border:solid 2px lightblue;
+  box-shadow:5px 5px 10px black;
+  left:300px;
+  top:0%;
+}
+
+
+.znakss {
+background: linear-gradient(5deg,rgba(41, 52, 150, 1) 0%, rgba(43, 195, 255, 1) 100%);
+  border-radius:15px;
+  padding:5px;
+  position:absolute;
+  border:solid 2px lightblue;
+  box-shadow:5px 5px 10px black;
+  left:310px;
+  top:0%;
+  
+}
+
+
+.mish {
+  position: absolute;
+    z-index: 1;  
+    right: 820px;
+    top: 215px;
+
+}
+
+.square h2 {
+  text-align: center;
+}
+
+.square p {
+  text-align: center;
+  font-size:19px;
+}
+
+.card {
+  background: linear-gradient(90deg,rgba(255, 187, 0, 1) 0%, rgba(255, 208, 138, 1) 50%, rgba(252, 176, 69, 1) 100%);
+  margin-left:50px;
+  margin-top:30px;
+  padding:120px;
+  position:absolute;
+  border:solid 2px #BD8100;
+  box-shadow:5px 5px 10px black;
+}
+
+.card {
+  padding: 5px;
+  border-radius: 10px;
+}
+.card p {
+  text-align: center;
+  font-size:17px;
+}
+
+.cards {
+  background: linear-gradient(90deg,rgba(255, 187, 0, 1) 0%, rgba(255, 208, 138, 1) 50%, rgba(252, 176, 69, 1) 100%);
+  margin-left:610px;
+  margin-top:30px;
+  padding:120px;
+  position:absolute;
+  border:solid 2px #BD8100;
+  box-shadow:5px 5px 10px black;
+}
+
+.cards {
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.cards p {
+  text-align: center;
+  font-size:17px;
+}
+
+
+
+.cardss {
+  background: linear-gradient(90deg,rgba(255, 187, 0, 1) 0%, rgba(255, 208, 138, 1) 50%, rgba(252, 176, 69, 1) 100%);
+  margin-left:330px;
+  margin-top:30px;
+  padding:120px;
+  position:absolute;
+  border:solid 2px #BD8100;
+  box-shadow:5px 5px 10px black;
+}
+
+.cardss {
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.cardss p {
+  text-align: center;
+  font-size:17px;
+}
+
+.muzika {
+position: absolute;
+top: 530px;
+right: 700px;
 
 
 }
 
 .square {
-  width: 490px;
-  height: 300px;
-  background-color: black; 
-  border-radius: 20px;
+  width: 1050px; 
+  height: 880px; 
+  background: linear-gradient(0deg,rgba(217, 152, 33, 1) 0%, rgba(255, 211, 115, 1) 79%);
+  right:5px; 
+  position:absolute;
+  margin-right:5px;
+  border-radius:15px;
+  margin-top:15px;
+  
+  
+  
+}
+main h2 {
+  font-size:27px;
+  text-align:center;
+}
+
+.derevo {
+  position:absolute;
+  right:0%;
+  top:110px;
+  z-index: 1;  
+}
+
+.pop {
+  left: 320px;
+  top: 166px;
   position: absolute;
-  top: 1120px;
-  margin-left: 1px;
   
 }
 
-.erer {
-  font-size:17px;
-}
 
-.popo {
-  text-align: right;
-  padding-right: 90px;
-  padding-top:60px;
-}
-
-.ideal {
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
- .ioio img {
-  text-align: right;
- }
-
-.pipi {
-  position: absolute;
-  top: 1070px;
-  padding-left: 20px;
-  font-size: 20px;
-}
-
-
-
-.ioio p {
-  padding-left: 20px;
-  position: absolute;
-  top: 1047px;
-  font-size:20px;
-}
-
-.ioio {
-  font-size: 19px;
-}
-
-.ioio h2 {
-  position:absolute ;
-  top:995px;
-}
-
-.erer li {
-  font-size: 18px;
-}
-
-.foto {
-  position: absolute;
-  right: 75px;
-  top: 65px;
-}
-
-  .cereal {
-    position: absolute;
-    top: 188px;
-    left: 850px;
-    border: rgba(148, 152, 233, 1) solid 3px;
-    border-radius: 5px;
-  }
-
-.acias {
-  padding-right:20px;
-}
-
-  .chim p {
-    font-size: 19px;
-    margin: 1px;
-  }
-
-  .chim {
-  border-left:6px dashed #5F8D0B ;
-  padding-left: 10px;
-  }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-      border: 1px solid #333;
-      padding-right:60px ;
-    }
-
-    th, td {
-      border: 1px solid #333;
-      padding: 10px 14px;
-      text-align: left;
-      vertical-align: top;
-    }
-
-    th {
-      background-color: #ffd4f785;
-      font-weight: bold;
-    }
-
-    td:first-child {
-      font-weight: bold;
-      background-color: #eec8f39d;
-      width: 25%;
-    }
-
-    td:nth-child(2), td:nth-child(3) {
-      width: 37.5%;
-    }
-
-
-    @media (max-width: 768px) {
-      table, thead, tbody, th, td, tr {
-        display: block;
-      }
-
-      tr {
-        margin-bottom: 15px;
-      }
-
-      td {
-        text-align: left;
-        padding-left: 50%;
-        position: relative;
-      }
-
-      td::before {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        width: 45%;
-        white-space: nowrap;
-        font-weight: bold;
-      }
-
-      td:nth-child(1)::before { content: "Характеристика"; }
-      td:nth-child(2)::before { content: "Соєві свічки"; }
-      td:nth-child(3)::before { content: "Парафінові свічки"; }
-    }
-
-aside {
-    position: fixed;
-    bottom: 0%;
-    border-radius: 5%;
-    border: white solid 3px;
-    width: 100%;
-    background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 152, 233, 1) 100%);
-    text-align: centre;
-    font-size: large;
-}
-
-
-.ad {
-  position: fixed;       
-  bottom: 20px;
-  right: 20px;
-  width: 250px;
-  padding: 15px;
-  background: gold;
-  border: 2px solid #333;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-  transition: opacity 0.4s ease, transform 0.4s ease;
-}
-
-.close-btn {
-  position: absolute;
-  top: 5px;
-  right: 8px;
-  cursor: pointer;
-  font-weight: bold;
-  color: #333;
-  font-size: 18px;
-  user-select: none;
-}
-
-
-#close-ad:checked ~ .ad {
-  opacity: 0;
-  transform: translateY(30px);
-  pointer-events: none;
-}
-
-
-aside:focus{
-    opacity: 0;
-}
-
-.etet p {
-  font-size: 18px;
-}
-
-.lemonsss h3 {
-  position: absolute;
-  right: 50px;
-  top: 1320px;
-}
-
-.lemon {
-  border: solid 4px #F5BF00;
-  position: absolute;
-  right: 300px;
-  border-radius: 5px;
-  top: 1030px;
-  z-index:1;
-}
-
-.lemons {
-  border: solid 4px #F5BF00;
-  position: absolute;
-  right: 390px;
-  top: 1190px;
-  border-radius: 5px;
-}
 
 header {
   display: flex;
@@ -257,24 +239,6 @@ header {
   display: flex;
   align-items: center;
  
-}
-
-.lemonss {
-  border: solid 4px #F5BF00;
-  position: absolute;
-  right: 192px;
-  top: 1157px;
-  border-radius: 5px;
-  transform: rotate(270deg);
-}
-
-.poi {
-  background: linear-gradient(to right, #f9faf8 50%, #000 50%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: transparent;
-  background-size: 1000px;
 }
 
 header a {
@@ -318,7 +282,7 @@ header a.logo img {
 
 .submenu {
     position: absolute;
-    top: 120%; 
+    top: 120%; /* немного ниже основной ссылки */
     left: 0;
     background: #fff;
     border: 1px solid #ccc;
@@ -326,10 +290,11 @@ header a.logo img {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     opacity: 0;
     transform: translateY(10px);
-    pointer-events: none; 
-    transition: all 0.3s ease;
+    pointer-events: none; /* чтобы не мешал */
+    transition: all 0.5s ease;
     min-width: 150px;
     padding: 10px;
+    z-index:1;
   }
 
 .submenu a {
@@ -339,6 +304,7 @@ header a.logo img {
     color: #333;
     border-radius: 4px;
     transition: background 0.2s;
+    
   }
 
 .submenu a:hover {
@@ -396,7 +362,7 @@ nav {
   position:absolute;
   background-color: grey;
   height:150px;
-  top:1500px;
+  top:1100px;
   width:2090px;
   display: flex;
   flex-direction: row;
@@ -404,8 +370,6 @@ nav {
   flex-wrap: wrap;
 background: linear-gradient(90deg,rgba(165, 185, 230, 1) 0%, rgba(227, 159, 159, 1) 50%, rgba(230, 206, 170, 1) 100%);
   padding: 20px 10px;
-  right:0%;
-  left:0%;
 }
 
 
@@ -413,7 +377,7 @@ background: linear-gradient(90deg,rgba(165, 185, 230, 1) 0%, rgba(227, 159, 159,
   .pronas {
   
   padding-left: 10px;
-  top:1500px;
+  top:1090px;
   position:absolute;
   left:1090px;
 }
